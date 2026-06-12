@@ -1,0 +1,13 @@
+{
+  "name": "js-project",
+  "version": "1.0.0",
+  "description": "Node.js Express Application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
